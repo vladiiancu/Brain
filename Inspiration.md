@@ -6,3 +6,6 @@
 
 > “Time and patience are the strongest warriors.” 
 > -— Leo Tolstoy
+
+> "Risk is to do something that 99 percent of the time would be a failure."
+> -- Ferran Adrià
