@@ -9,3 +9,6 @@
 
 > "Risk is to do something that 99 percent of the time would be a failure."
 > -- Ferran Adrià
+
+> "If I know how you spend your time, then I know what might become of you."
+> -- Johann Wolfgang von Goethe
