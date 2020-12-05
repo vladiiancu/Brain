@@ -12,3 +12,6 @@
 
 > "If I know how you spend your time, then I know what might become of you."
 > -- Johann Wolfgang von Goethe
+
+> “Walking is among the most life-affirming of human activities. It is the way we organize space and orient ourselves to the world at large. It is the living proof that repetition—placing one foot in front of the other—can in fact allow a person to make meaningful progress.”
+> -— John Kaag
