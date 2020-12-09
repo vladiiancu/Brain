@@ -1,11 +1,11 @@
 > “It’s not what happens to you, but how you react to it that matters.”
-> —- Epictetus
+> -- Epictetus
 
 > “Every man I meet is my master in some point, and in that I learn of him.” 
-> -— Ralph Waldo Emerson
+> -- Ralph Waldo Emerson
 
 > “Time and patience are the strongest warriors.” 
-> -— Leo Tolstoy
+> -- Leo Tolstoy
 
 > "Risk is to do something that 99 percent of the time would be a failure."
 > -- Ferran Adrià
@@ -14,4 +14,7 @@
 > -- Johann Wolfgang von Goethe
 
 > “Walking is among the most life-affirming of human activities. It is the way we organize space and orient ourselves to the world at large. It is the living proof that repetition—placing one foot in front of the other—can in fact allow a person to make meaningful progress.”
-> -— John Kaag
+> -- John Kaag
+
+> "You were born an original. Don't die a copy."
+> -- John Mason
