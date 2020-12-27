@@ -17,3 +17,8 @@
 > -- <cite>Arta Subtilă a Disperării, Mark Manson</cite>
 
 #fericire
+
+>Aproape toți ne dorim aceleași lucruri de la viață. Dar micile diferențe generează emoții iar emoțiile generează sentimentul importanței. Ajungem, prin urmare, să percepem diferențele dintre noi ca fiind mai importante decât similaritățile. Iată adevărata tragedie a omului. Suntem condamnați la un conflict perpetuu în jurul unor diferențe minuscule.
+> -- <cite>Arta Subtilă a Disperării, Mark Manson</cite>
+
+#viață, #emoții
