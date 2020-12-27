@@ -18,3 +18,6 @@
 
 > "You were born an original. Don't die a copy."
 > -- John Mason
+
+> "Talking much about oneself can also be a means to conceal oneself."
+> -- Friedrich Nietzsche
