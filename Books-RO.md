@@ -22,3 +22,8 @@
 > -- <cite>Arta Subtilă a Disperării, Mark Manson</cite>
 
 #viață, #emoții
+
+>Dar într-un final înțelegem că lucrurile cele mai importante nu pot fi obținute prin negociere. [...] Lucrurile cele mai prețioase și importante în viață sunt, prin definiție nontranzacționabile. 
+> -- <cite>Arta Subtilă a Disperării, Mark Manson</cite>
+
+#fericire, #negociere
