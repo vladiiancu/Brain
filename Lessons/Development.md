@@ -5,3 +5,5 @@ If there are no parameters anywhere, it's a sign of a problem.
 
 Try to limit the nesting level to max 2-3. 
 
+We will read more code than we will ever write.
+
