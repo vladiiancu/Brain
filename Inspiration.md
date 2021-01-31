@@ -21,3 +21,6 @@
 
 > "Talking much about oneself can also be a means to conceal oneself."
 > -- Friedrich Nietzsche
+
+> "Enthusiasm is common. Endurance is rare."
+> -- Angela Duckworth
