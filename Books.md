@@ -3,3 +3,6 @@
 > <cite>—-In Front of Your Nose, George Orwell</cite>
 
 #believe
+
+> "Her only concern was to find a man who could give her the strongest and deepest possible love. A woman with such aspirations is a truly terrifying creature."
+> <cite>--The Priest of Shiga Temple and His Love, Yukio Mishima</cite>
