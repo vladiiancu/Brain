@@ -24,3 +24,6 @@
 
 > "Enthusiasm is common. Endurance is rare."
 > -- Angela Duckworth
+
+> "If you have a garden and a library, you have everything you need."
+> -- Marcus Tullius Cicero
