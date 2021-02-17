@@ -27,3 +27,6 @@
 
 > "If you have a garden and a library, you have everything you need."
 > -- Marcus Tullius Cicero
+
+> "It's not about time, it's about choices. How are you spending your choices?"
+> -- Beverly Adam
