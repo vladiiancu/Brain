@@ -29,4 +29,7 @@
 > -- Marcus Tullius Cicero
 
 > "It's not about time, it's about choices. How are you spending your choices?"
-> -- Beverly Adam
+> -- Beverly 
+
+> "Success consists of going from failure to failure without loss of enthusiasm"
+> -- Winston Churchill 
