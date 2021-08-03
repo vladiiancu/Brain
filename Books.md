@@ -6,3 +6,8 @@
 
 > "Her only concern was to find a man who could give her the strongest and deepest possible love. A woman with such aspirations is a truly terrifying creature."
 > <cite>--The Priest of Shiga Temple and His Love, Yukio Mishima</cite>
+
+> "Knowing where you want to go and what your values are can be essential to getting there, to ensuring that all of your interests and concerns are factored into fast-moving decisions, and to avoiding later regrets about being less than clear-minded."
+> <cite> --The Leadership Moment, Michael Useem </cite>
+
+#values
