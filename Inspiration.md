@@ -33,3 +33,6 @@
 
 > "Success consists of going from failure to failure without loss of enthusiasm"
 > -- Winston Churchill 
+
+> "Learn from the mistakes of others. You can't live long enough to make them all yourself."
+> -- Eleanor Roosevelt
