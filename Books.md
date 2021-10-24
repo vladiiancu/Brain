@@ -12,6 +12,10 @@
 
 > "Knowing where you want to go and what your values are can be essential to getting there, to ensuring that all of your interests and concerns are factored into fast-moving decisions, and to avoiding later regrets about being less than clear-minded."
 > <cite> --The Leadership Moment, Michael Useem </cite>
+  
+  #growth
+  > "If you cannot risk, you cannot grow. If you cannot grow, you cannot become your best. If you cannot become your best, you cannot be happy. If you cannot be happy, what else matters?"
+  > <cite> --Risking, Dr. David Viscott </cite>
 
 
 
