@@ -36,3 +36,6 @@
 
 > "Learn from the mistakes of others. You can't live long enough to make them all yourself."
 > -- Eleanor Roosevelt
+
+> "A leader is best when people barely know he exists"
+> -- Lao Tzu
