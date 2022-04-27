@@ -27,3 +27,8 @@
 > -- <cite>Arta Subtilă a Disperării, Mark Manson</cite>
 
 #fericire, #negociere
+
+>Dar, din momentul în care amatorii își utilizează cunoașterea pentru a-și hrăni egourile sau pentru a obține un avantaj material, ei pierd din vedere scopul inițial și devin caricaturi ale profesioniștilor.
+> -- <cite>Flux. Psihologia fericirii, Mihaly Csikszentmihalyi</cite>
+
+#hobby
